@@ -1,12 +1,11 @@
 
 
-### Computer Science & Networks Engineering Student | AI & Data Science
 
-I'm a Computer Science & Networks Engineering student with a background in Statistics & Data Science, passionate about Machine Learning, AI and building useful web applications.
+### I'm a Computer Science & Networks Engineering student with a background in Statistics & Data Science, passionate about Machine Learning, AI and building useful web applications.
 
 ##  About Me
 
-- 🎓 Computer Engineering Student @ EMSI
+- 🎓 Computer Science & Networks Engineering Student
 -  Bachelor's degree in Statistics & Data Science
 -  Interested in AI & Machine Learning
 -  Background in Data Science & Statistics
