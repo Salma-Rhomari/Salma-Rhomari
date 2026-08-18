@@ -1,17 +1,17 @@
-# Hi, I'm Salma 👋
+
 
 ### Computer Engineering Student | AI & Data Science
 
 I'm a Computer Engineering student with a background in Statistics & Data Science, passionate about Machine Learning, AI and building useful web applications.
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Computer Engineering Student @ EMSI
-- 📊 Bachelor's degree in Statistics & Data Science
-- 🤖 Interested in AI & Machine Learning
-- 💻 Building full-stack web applications
-- 📈 Background in Data Science & Statistics
-- 🌱 Currently learning and building new projects
+-  Bachelor's degree in Statistics & Data Science
+-  Interested in AI & Machine Learning
+-  Building full-stack web applications
+-  Background in Data Science & Statistics
+-  Currently learning and building new projects
 
 ## 🛠️ Tech Stack
 
