@@ -1,7 +1,4 @@
-
-
-
-**Computer Science & Networks Engineering Student | Data Science & Machine Learning**
+### Computer Science & Networks Engineering Student | Data Science & Machine Learning
 
 - 🎓 Computer Science & Networks Engineering Student
 -  Bachelor's degree in Statistics & Data Science
