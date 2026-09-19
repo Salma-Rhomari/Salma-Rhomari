@@ -1,7 +1,9 @@
 
 
 
-### I'm a Computer Science & Networks Engineering student with a background in Statistics & Data Science, passionate about Machine Learning, AI and building useful web applications.
+**Computer Science & Networks Engineering Student | Data Science & Machine Learning**
+
+Engineering student with a background in Statistics and Data Science. Passionate about Machine Learning, AI and building useful web applications.
 
 ##  About Me
 
