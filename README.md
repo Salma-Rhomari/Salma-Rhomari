@@ -3,10 +3,6 @@
 
 **Computer Science & Networks Engineering Student | Data Science & Machine Learning**
 
-Engineering student with a background in Statistics and Data Science. Passionate about Machine Learning, AI and building useful web applications.
-
-##  About Me
-
 - 🎓 Computer Science & Networks Engineering Student
 -  Bachelor's degree in Statistics & Data Science
 -  Interested in AI & Machine Learning
